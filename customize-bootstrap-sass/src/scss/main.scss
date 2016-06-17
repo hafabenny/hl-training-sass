@@ -3,3 +3,16 @@
 @import "bootstrap";
 @import "bootstrap/theme";
 
+
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+.box { 
+  @include border-radius(10px); 
+  border: 1px solid grey;
+}
