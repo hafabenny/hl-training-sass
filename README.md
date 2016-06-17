@@ -2,6 +2,15 @@
 Healthline Friday Lunch Training SASS mixins
 6/17/16
 
+used this tutorial:
+
+Twitter Bootstrap v3 - npm, sass, gulp
+http://www.codevoila.com/post/32/customize-bootstrap-using-bootstrap-sass-and-gulp
+
+and
+
+http://sass-lang.com/guide
+
 1 Initialize A Project
 
 $ cd customize-bootstrap-sass
